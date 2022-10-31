@@ -6,6 +6,11 @@
     box-sizing: border-box;
 }
 
+html
+{
+    scroll-behavior: smooth;
+}
+
 body
 {
     background-color: #262c3a;
@@ -286,7 +291,7 @@ aside
 
 #address i
 {
-    font-size: 2em;
+    font-size: 1em;
     margin-right: 0.5em;
 }
 
